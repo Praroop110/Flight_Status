@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://praroopk5:admin@cluster0.g3cjf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: FlightData
